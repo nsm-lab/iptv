@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IPTV
 
 Collection of 8000+ publicly available IPTV channels from all over the world. 
@@ -305,3 +306,7 @@ You can find links to various IPTV related resources in this repository [iptv-or
 Please make sure to read the [Contributing Guide](.github/CONTRIBUTING.md) before making a pull request.
 
 If you find an error or have any suggestions on how to organize a playlist, please send an [issue](https://github.com/iptv-org/iptv/issues).
+=======
+# iptv
+Collection of 8000+ publicly available IPTV channels from all over the world
+>>>>>>> ab06501b290e3c6932d52d0976c94cdfff709549
